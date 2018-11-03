@@ -11,3 +11,8 @@ ip a
 cat /etc/passwd
 useradd test
 sudo su -
+pwd
+cd /
+ls
+git init
+sudo su -
